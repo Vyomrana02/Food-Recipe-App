@@ -1,6 +1,7 @@
 # Food-Recipe-App
 
-![cover](assets/cover.png)
+![cover]![11](https://user-images.githubusercontent.com/87069619/172177952-6e73c9d7-d74b-4acf-bc5c-1e737a89996f.png)
+
 
 <div align="center">
 	<h2>Recipe App</h2>
