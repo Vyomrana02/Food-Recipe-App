@@ -31,7 +31,8 @@ cd RapidAPI\ DevRel-Examples-External\ main\ recipe-app/
 3. Install dependencies
 
 ```bash
-npm install
+npm instal
+l
 ```
 
 4. Create `.env.local` file in root and add your RapidAPI key.
