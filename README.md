@@ -1,31 +1,26 @@
 # Food-Recipe-App
 
-![cover]![11](https://user-images.githubusercontent.com/87069619/172177952-6e73c9d7-d74b-4acf-bc5c-1e737a89996f.png)
+![11](https://user-images.githubusercontent.com/87069619/172177952-6e73c9d7-d74b-4acf-bc5c-1e737a89996f.png)
 
 
 <div align="center">
 	<h2>Recipe App</h2>
 </div>
 
-> [Live Preview](https://rapidapi-example-recipe-app.vercel.app/)
-
 ### ⚡️ Features
 
 - Search for food recipes from over 365,000 recipes using Spoonacular API from RapidAPI Hub.
 - Filter results based on diet types and ingredients to be excluded.
 
-## Guide
-
-[Read a step-by-step guide to build this application.](https://rapidapi.com/guides/build-recipe-app)
 
 ### 🛠️ Installation Steps
 
-1. Download the `recipe-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/RapidAPI/DevRel-Examples-External/tree/main/recipe-app) to download it.
+1. Download the `recipe-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/Vyomrana02/Food-Recipe-App) to download it.
 
 2. Unzip the downloaded file and navigate to the working directory.
 
 ```bash
-cd RapidAPI\ DevRel-Examples-External\ main\ recipe-app/
+cd recipe-app/
 ```
 
 3. Install dependencies
