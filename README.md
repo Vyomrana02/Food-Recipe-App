@@ -15,7 +15,7 @@
 
 ### 🛠️ Installation Steps
 
-1. Download the `recipe-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/Vyomrana02/Food-Recipe-App) to download it.
+1. Download the `recipe-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/Vyomrana02/tree/main/Food-Recipe-App) to download it.
 
 2. Unzip the downloaded file and navigate to the working directory.
 
